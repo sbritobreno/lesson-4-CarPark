@@ -13,6 +13,8 @@ namespace lesson_4_editted
 
             management.workingDay();
 
+            Console.WriteLine();
+
         }
     }
 }
